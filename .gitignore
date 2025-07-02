@@ -1,0 +1,7 @@
+wp-content/uploads/
+wp-content/plugins/
+*.wpress
+*.zip
+*.log
+.env
+node_modules/
